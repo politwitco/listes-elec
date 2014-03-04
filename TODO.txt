@@ -1,0 +1,5 @@
+Cloudbees + Grails (git):
+https://wiki.cloudbees.com/bin/view/DEV/Build+and+Deploy+Grails+application
+
+Cloudbees + Maven:
+https://wiki.cloudbees.com/bin/view/RUN/MavenGuide
